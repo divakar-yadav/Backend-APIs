@@ -3,7 +3,7 @@ cachier==1.2.6
 cryptography==2.8
 Cython==0.29.14
 Flask==1.1.1
-flask_cors==3.0.8
+flask_cors==3.0.9
 flask_sqlalchemy==2.4.1
 importlib_metadata==0.23
 ipaddr==2.2.0
